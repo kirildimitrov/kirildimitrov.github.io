@@ -1,2 +1,0 @@
-# kirildimitrov.github.io
-Test
